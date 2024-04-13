@@ -1,0 +1,7 @@
+{
+  "name": "gdg-brandon",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
